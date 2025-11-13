@@ -1,9 +1,14 @@
-//
-//  main.cpp
-//  Kitchen Order Management
-//
-//  Created by Jovhems Jean-Baptiste on 11/7/25.
-//
+// Description:
+//  This file contains the main entry point for the console-based
+//  restaurant kitchen simulation. The main program provides an
+//  interactive menu that allows the kitchen manager to perform
+//   all system operations, including adding new orders, starting
+//   food preparation, completing orders, and serving finished
+//  meals.
+// created by Jovhems Jean-Baptiste 11/7/25
+
+   
+
 
 #include <iostream>
 #include <string>
